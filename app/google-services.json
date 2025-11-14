@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670586904588",
+    "project_id": "guidelanka-41000",
+    "storage_bucket": "guidelanka-41000.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670586904588:android:02610105c5640c54668e29",
+        "android_client_info": {
+          "package_name": "com.example.planmytrip_hci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpt3MheMr4djixcPsjNTaJndzZzeRyUmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
